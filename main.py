@@ -13,6 +13,5 @@ def divide(num1, num2):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    from chapter5.PracticeProjects import FantasyInventoryProject
-
+    from chapter6.project_chapter import pw
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
